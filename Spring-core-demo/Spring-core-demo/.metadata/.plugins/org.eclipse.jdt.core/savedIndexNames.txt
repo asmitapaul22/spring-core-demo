@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\Capgemini_Spring\Spring-core-demo\.metadata\.plugins\org.eclipse.jdt.core
+4040780632.index
+2196199803.index
+523473033.index
+3963941887.index
+871715386.index
+1384211180.index
